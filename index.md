@@ -8,9 +8,9 @@ The main goal of our project is to combat huge problem that prevents us from usi
 In particular Temporal graphs could be greatly improved if we could figure out a way to deal with its intrinsic data imbalance.
 
  
-Our team consists of 2 Datalogy@[Faculty of Computer Science and Management](http://wiz.pwr.edu.pl/en/) students:
+Our team consists of 2 Data Science@[Faculty of Computer Science and Management](http://wiz.pwr.edu.pl/en/) students:
 * Hubert Jegierski
-* Jakub Szaktuła
+* Jakub Szkatuła
 
 
 
